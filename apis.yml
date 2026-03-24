@@ -1,0 +1,7 @@
+aid: delta-air-lines
+url: https://raw.githubusercontent.com/api-evangelist/delta-air-lines/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.delta-air-lines.com
