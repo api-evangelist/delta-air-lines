@@ -46,6 +46,8 @@ apis:
       - type: SignUp
         url: https://apiportal.delta.com/publish
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/delta-air-lines
   - type: Website
     url: https://www.delta.com
   - type: Developer Portal
