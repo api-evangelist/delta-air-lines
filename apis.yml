@@ -44,14 +44,14 @@ apis:
     properties:
       - type: Documentation
         url: https://apiportal.delta.com
-      - type: SignUp
+      - type: Signup
         url: https://apiportal.delta.com/publish
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/delta-air-lines
   - type: Website
     url: https://www.delta.com
-  - type: Developer Portal
+  - type: DeveloperPortal
     url: https://apiportal.delta.com
   - type: Dev Portal
     url: https://dev-apiportal.delta.com
