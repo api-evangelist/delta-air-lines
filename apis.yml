@@ -47,6 +47,8 @@ apis:
       - type: Signup
         url: https://apiportal.delta.com/publish
 common:
+  - type: DomainSecurity
+    url: security/delta-air-lines-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/delta-air-lines
   - type: Website
@@ -59,6 +61,8 @@ common:
     url: https://news.delta.com
   - type: Careers
     url: https://careers.delta.com
+  - url: https://news.delta.com/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
